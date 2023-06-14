@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DRAGISA\\Desktop\\s.tetratka\\ASP.NET MVC Web Apps\\ASP.NET MVC Web Apps (2) + code\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectUniqueName": "C:\\Users\\DRAGISA\\Desktop\\ASP.NET MVC Web Apps homework\\ASP.NET-MVC-Web-Apps\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "projectName": "PizzaApp",
-      "projectPath": "C:\\Users\\DRAGISA\\Desktop\\s.tetratka\\ASP.NET MVC Web Apps\\ASP.NET MVC Web Apps (2) + code\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
+      "projectPath": "C:\\Users\\DRAGISA\\Desktop\\ASP.NET MVC Web Apps homework\\ASP.NET-MVC-Web-Apps\\PizzaApp\\PizzaApp\\PizzaApp.csproj",
       "packagesPath": "C:\\Users\\DRAGISA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DRAGISA\\Desktop\\s.tetratka\\ASP.NET MVC Web Apps\\ASP.NET MVC Web Apps (2) + code\\PizzaApp\\PizzaApp\\obj\\",
+      "outputPath": "C:\\Users\\DRAGISA\\Desktop\\ASP.NET MVC Web Apps homework\\ASP.NET-MVC-Web-Apps\\PizzaApp\\PizzaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DRAGISA\\AppData\\Roaming\\NuGet\\NuGet.Config",
