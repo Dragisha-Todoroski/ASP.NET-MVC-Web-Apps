@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{5744810F-2343-45B8-81F7-014A9A37A04F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaApp/Views/Order/CreateOrder.cshtml">
+    <Files>
+      <File FileName="PizzaApp/Views/OrderHomework/JsonData.cshtml" />
+      <File FileName="PizzaApp/Models/Domain/Pizza.cs" />
+      <File FileName="PizzaApp/Models/Enums/PizzaSizeHomework.cs" />
+      <File FileName="PizzaApp/Models/ViewModels/PizzaViewModelHomework.cs" />
+      <File FileName="PizzaApp/Models/ViewModels/OrderDetailsViewModel.cs" />
+      <File FileName="PizzaApp/Models/ViewModels/OrderDetailsViewModelHomework.cs" />
+      <File FileName="PizzaApp/Models/Mappers/OrderMapper.cs" />
+      <File FileName="PizzaApp/Controllers/OrderController.cs" />
+      <File FileName="PizzaApp/Controllers/PizzaController.cs" />
+      <File FileName="PizzaApp/Models/Domain/User.cs" />
+      <File FileName="PizzaApp/Views/Pizza/Index.cshtml" />
+      <File FileName="PizzaApp/Views/Pizza/GetAllPizzas.cshtml" />
+      <File FileName="PizzaApp/Views/Pizza/Details.cshtml" />
+      <File FileName="PizzaApp/StaticDb.cs" />
+      <File FileName="PizzaApp/StaticDbOrdersHomework.cs" />
+      <File FileName="PizzaApp/Models/Mappers/PizzaMapperHomework.cs" />
+      <File FileName="PizzaApp/Controllers/HomeController.cs" />
+      <File FileName="PizzaApp/Controllers/OrderHomeworkController.cs" />
+      <File FileName="PizzaApp/Models/Domain/Order.cs" />
+      <File FileName="PizzaApp/Models/Domain/OrderHomework.cs" />
+      <File FileName="PizzaApp/Models/Enums/PaymentMethodEnum.cs" />
+      <File FileName="PizzaApp/Models/Mappers/OrderMapperHomework.cs" />
+      <File FileName="PizzaApp/Views/PizzaHomework/Index.cshtml" />
+      <File FileName="PizzaApp/Views/PizzaHomework/Details.cshtml" />
+      <File FileName="PizzaApp/Program.cs" />
+      <File FileName="PizzaApp/Views/Order/Details.cshtml" />
+      <File FileName="PizzaApp/Models/ViewModels/OrderDialogViewModel.cs" />
+      <File FileName="PizzaApp/Models/ViewModels/UserOptionViewModel.cs" />
+      <File FileName="PizzaApp/Views/Order/CreateOrder.cshtml" Line="1" Column="1" />
+      <File FileName="PizzaApp/Views/_ViewImports.cshtml" />
+      <File FileName="PizzaApp/Views/Order/Index.cshtml" />
+      <File FileName="PizzaApp/Views/Order/EditOrder.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaApp" expanded="True">
+            <Node name="PizzaApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Domain" expanded="True" />
+                <Node name="Enums" expanded="True" />
+                <Node name="Mappers" expanded="True" />
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Order" expanded="True">
+                  <Node name="CreateOrder.cshtml" selected="True" />
+                </Node>
+                <Node name="OrderHomework" expanded="True" />
+                <Node name="Pizza" expanded="True" />
+                <Node name="PizzaHomework" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
