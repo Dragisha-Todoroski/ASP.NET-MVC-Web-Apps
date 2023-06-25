@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DC9D06D9-9ABC-4B94-B2DE-231F419382EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaAppRefactored.Domain/Models/BaseEntity.cs">
+    <Files>
+      <File FileName="PizzaAppRefactored.Domain/Models/BaseEntity.cs" Line="9" Column="1" />
+      <File FileName="PizzaAppRefactored.Domain/Models/User.cs" />
+      <File FileName="PizzaAppRefactored.Domain/Models/Order.cs" />
+      <File FileName="PizzaAppRefactored.Domain/Enums/PaymentMethodEnum.cs" />
+      <File FileName="PizzaAppRefactored.Domain/Models/Pizza.cs" />
+      <File FileName="PizzaAppRefactored.Domain/Enums/PizzaSizeEnum.cs" Line="8" Column="15" />
+      <File FileName="PizzaAppRefactored.Domain/Models/PizzaOrder.cs" Line="12" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaAppRefactored" expanded="True">
+            <Node name="PizzaAppRefactored" expanded="True" />
+            <Node name="PizzaAppRefactored.Domain" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="BaseEntity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PizzaAppRefactored.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PizzaAppRefactored PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
